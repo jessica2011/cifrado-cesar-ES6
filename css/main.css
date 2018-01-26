@@ -1,0 +1,15 @@
+h5, h2 {
+  font-family: 'Bad Script', cursive;
+}
+
+.fondo {
+  background-image: url('../assets/images/fondo.png');
+  background-position:center center;
+	background-repeat:no-repeat;
+  background-size:cover;
+  color: white;
+}
+
+.hidden {
+   display: none;
+}
